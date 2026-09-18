@@ -1,6 +1,6 @@
 # Spectrum-GS
 
-Official implementation of **Spectrum-GS: Scale-Receptive 3D Gaussians for Continuous Scale-Adaptive Rendering in Large-Scale Scenes**.
+Official implementation of **Spectrum-GS: Continuous Adaptive Rendering in Large Scenes via Scale-Receptive 3D Gaussians**.
 
 ## Code Release
 
